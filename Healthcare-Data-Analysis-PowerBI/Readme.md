@@ -14,7 +14,7 @@ Develop a Power BI dashboard to analyze patient demographics, department utiliza
 
 This Power BI dashboard transforms raw healthcare data into actionable insights through interactive visualizations and real-time filtering capabilities.
 
-![Full Dashboard](images/full_dashboard.png)
+![Excel](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/dashboard.jpg)
 
 ---
 
@@ -30,8 +30,7 @@ The dashboard prominently displays total patient visits with a gender breakdown,
 - Female Patients: 4,487 (49.0%)
 - Average Wait Time: ~35 minutes (consistent across genders)
 
-![Patient KPI Card](images/patient_kpi.png)
-
+![Excel]([https://github.com/rahmansabiurfx/Excel-EDA/blob/main/Healthcare-Data-Analysis/Assets/stat1.PNG](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/dashboard.jpg))
 ---
 
 ## 📈 Demographic Analysis
