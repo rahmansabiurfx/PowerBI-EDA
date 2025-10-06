@@ -30,7 +30,7 @@ The dashboard prominently displays total patient visits with a gender breakdown,
 - Female Patients: 4,487 (49.0%)
 - Average Wait Time: ~35 minutes (consistent across genders)
 
-![Excel]([https://github.com/rahmansabiurfx/Excel-EDA/blob/main/Healthcare-Data-Analysis/Assets/stat1.PNG](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/dashboard.jpg))
+![Excel](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/patient_kpi.PNG)
 ---
 
 ## 📈 Demographic Analysis
@@ -46,7 +46,7 @@ This pie chart reveals the diverse patient population served by the emergency de
 - Two or More Races: 16.89% (1,556 patients)
 - Other categories each below 12%
 
-![Race Distribution Pie Chart](images/race_pie_chart.png)
+![Excel](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/racial_chart.PNG)
 
 ### Age Group Composition
 
@@ -59,7 +59,7 @@ The age distribution analysis shows a balanced spread across adult populations w
 - Teen: 8.92%
 - Infant: 2.39% (lowest utilization)
 
-![Age Group Pie Chart](images/age_pie_chart.png)
+![Excel](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/age_group_pie.PNG)
 
 ---
 
@@ -75,7 +75,7 @@ This stacked bar chart provides critical insights into department-specific utili
 - Most departments: 70-75% weekday utilization
 - Weekend services consistently underutilized (15-33%)
 
-![Weekday Weekend Chart](images/weekday_weekend_chart.png)
+![Excel](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/weekday_weekend.PNG)
 
 ### Department Referral Matrix
 
@@ -87,7 +87,7 @@ The comprehensive matrix table shows department referrals broken down by age gro
 3. Physiotherapy: 276 referrals
 4. Specialized departments: <250 referrals each
 
-![Department Matrix](images/department_matrix.png)
+![Excel](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/department_matrix.PNG)
 
 ---
 
@@ -101,14 +101,14 @@ The dashboard includes powerful filtering capabilities that update all visualiza
 - Covers April 2019 to October 2020
 - Slider interface for intuitive date selection
 
-![Date Filter](images/date_filter.png)
+![Excel](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/date_filter.PNG)
 
 **Age Group Filter:**
 - Dropdown menu with "All" option
 - Instant cross-visual filtering
 - Enables age-specific analysis
 
-![Age Filter](images/age_filter.png)
+![Excel](https://github.com/rahmansabiurfx/PowerBI-EDA/blob/main/Healthcare-Data-Analysis-PowerBI/Assets/age_filter.PNG)
 
 ---
 
