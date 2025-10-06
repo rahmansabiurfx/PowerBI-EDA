@@ -112,6 +112,13 @@ The dashboard includes powerful filtering capabilities that update all visualiza
 
 ---
 
+## 🎯 Conclusion
+
+This Emergency Room Analytics Dashboard successfully transforms complex healthcare data into clear, actionable insights. By analyzing 9,216 patient visits across 18 months, the dashboard reveals critical patterns in patient demographics, department utilization, and service delivery efficiency.
+
+The dashboard empowers administrators to spot the weekday-weekend split, identify overwhelmed departments, and verify equitable wait times across patient groups. What was once scattered data is now a practical tool for smarter staffing decisions and strategic planning. This project demonstrates how thoughtful analytics can directly improve both healthcare operations and patient experiences.
+---
+
 ## 💡 Key Insights & Recommendations
 
 ### 1. Weekend Optimization Opportunity
@@ -183,13 +190,7 @@ This dashboard enables healthcare administrators to:
    - Preventive care program development
    - Community health needs assessment
 
----
 
-## 🎯 Conclusion
-
-This Emergency Room Analytics Dashboard successfully transforms complex healthcare data into clear, actionable insights. By analyzing 9,216 patient visits across 18 months, the dashboard reveals critical patterns in patient demographics, department utilization, and service delivery efficiency.
-
-The dashboard empowers administrators to spot the weekday-weekend split, identify overwhelmed departments, and verify equitable wait times across patient groups. What was once scattered data is now a practical tool for smarter staffing decisions and strategic planning. This project demonstrates how thoughtful analytics can directly improve both healthcare operations and patient experiences.
 ---
 
 *This project demonstrates advanced Power BI skills applied to real-world healthcare challenges, showcasing the ability to transform complex data into actionable business intelligence.*
